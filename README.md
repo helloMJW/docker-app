@@ -1,4 +1,4 @@
-# docker app clump 跑在容器的项目(running in the docker)
+# 跑在容器的项目(running in the docker)
 
 > 当发现一个服务端的项目就想简单体验一下 总需要安装各种服务才可以跑起项目 最自己电脑安装了些什么也都不知道了 有没有可以像客户端的软件那么一键安装 一键卸载呢? docker
 
