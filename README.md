@@ -8,16 +8,25 @@
 
 ## 工具
 
-[docker-GitLab-官方安装文档](https://docs.gitlab.com/ee/install/docker.html)
-[docker-gogs](https://github.com/gogs/gogs/tree/master/docker)
+- [docker-GitLab-官方安装文档](https://docs.gitlab.com/ee/install/docker.html)
+- [docker-gogs](https://github.com/gogs/gogs/tree/master/docker)
+- [docker-phpmyadmin](https://hub.docker.com/r/phpmyadmin/phpmyadmin/)
+- [docker-laradock](https://github.com/laradock/laradock)
 
 ## 论坛
 
+- [docker-flarum](https://hub.docker.com/r/mondedie/docker-flarum/)
+- [docker-discuz](https://hub.docker.com/r/skyzhou/docker-discuz/)
+
 ## 商城
 
-[docker-opencart](https://hub.docker.com/r/bitnami/opencart/)
+- [docker-opencart](https://hub.docker.com/r/bitnami/opencart/)
+- [docker-magento](https://hub.docker.com/r/bitnami/magento/)
 
 ## CMS
 
-[docker-wordpress](https://hub.docker.com/_/wordpress/)
-[docker-laravel-octobercms](https://hub.docker.com/r/aspendigital/octobercms/)
+- [docker-wordpress](https://hub.docker.com/_/wordpress/)
+- [docker-laravel-octobercms](https://hub.docker.com/r/aspendigital/octobercms/)
+- [docker-phpcms](https://hub.docker.com/r/smartslug/phpcms/)
+- [docker-DeDeCMS](https://hub.docker.com/r/chengxulvtu/dedecms/)
+- [docker-October](https://hub.docker.com/r/aspendigital/octobercms/)
