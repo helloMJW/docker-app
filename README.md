@@ -12,6 +12,7 @@
 - [docker-gogs](https://github.com/gogs/gogs/tree/master/docker)
 - [docker-phpmyadmin](https://hub.docker.com/r/phpmyadmin/phpmyadmin/)
 - [docker-laradock](https://github.com/laradock/laradock)
+- [docker-walle-web](https://github.com/owen-carter/walle-web) | [部署文档](http://www.majianwei.com/archives/8683)
 
 ## 论坛
 
